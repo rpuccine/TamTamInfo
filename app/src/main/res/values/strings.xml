@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TamTam Info</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_detail_news">DetailNewsActivity</string>
+
+    <string name="body_news1">Le 4 juin, Philippe Fabié, Président-Directeur général de Bouygues Bâtiment Ile-de-France a posé la première pierre de Qu4drans à Balard "Corne Ouest", dans le quinzième arrondissement de Paris. La cérémonie s’est déroulée en présence de Pierre Vaquier, Directeur Général d’AXA Real Estate, investisseur et développeur du projet et Serge Grzybowski, Président Directeur Général d’Icade, promoteur de l’opération avec Sodéarif.
+\n \nIl s’agit de la plus grosse opération tertiaire de la capitale avec 86 000 m² de bureaux. Conçu par l’agence Wilmotte et Associés, ce projet vise les certifications Haute qualité environnementale Bâtiments Tertiaires niveau Exceptionnel, Breeam Excellent et le label BBC-Effinergie.</string>
+
+    <string name="body_news2">Brézillon a livré la première phase du nouveau centre de Recherche et Développement d’Inergy Automotive Systems (filiale de Plastic Omnium), à Venette près de Compiègne (Oise). Ce projet de 45,5 M€, en conception/réalisation, réalisé en moins de 20 mois, consiste en la création d’un centre R etD consacré aux réservoirs à carburant automobiles. Il comprend un pôle tertiaire de 10 000 m², un pôle industriel de 12 000 m²,  un pôle social avec un restaurant d’entreprise de 400 couverts, un auditorium de 200 places et une salle de sport. Ce site, conçu par BG Concept, DLM Architectes et Technip TPS, permet de regrouper 600 personnes, auparavant réparties sur trois centres différents en France. </string>
+
+    <string name="body_news3">Vendredi 31 octobre, le Premier ministre s’est rendu sur le chantier de la Philharmonie réalisé par Bouygues Bâtiment Ile-de-France afin de le découvrir avant sa livraison prévue pour la fin de l’année. Cette visite s’est déroulée en présence de Laurent Bayle, président de la Philharmonie de Paris et de Jean-Christophe Perraud, directeur général délégué de Bouygues Bâtiment Ile-de-France.
+\n\nManuel Valls a pu découvrir la salle de concert de 2 400 places. Le Premier ministre s’est ensuite rendu sur la toiture du bâtiment et a découvert le chemin de randonnée.
+\n\nA l’issue de sa visite, le Premier ministre a tenu à féliciter et à remercier les équipes qui ont participé à ce « magnifique projet architectural qui mettra la musique à la portée de tous ».
+\n\nLe 21 octobre, Fleur Pellerin, ministre de la Culture et de la Communication, s’était rendue sur le chantier en compagnie de Jean Nouvel, concepteur du projet.</string>
+
+    <string name="body_news4">Les travaux de restructuration, de réhabilitation et d’agrandissement ont été menés par Bouygues Bâtiment Ile-de-France en entreprise générale en 26 mois. La surface du bâtiment atteint aujourd’hui 19 000 m².
+\n\nConçu par KCAP Architectes and Planners et l’Atelier 115, le New Time est le premier immeuble de bureaux rénové à obtenir la certification BREEAM. Il est également certifié HQE et dispose du label BBC Effinergie®.
+\n\nLe projet a bénéficié de l’offre Begreen® proposée par Bouygues Bâtiment Ile-de-France.
+Begreen® est une offre d’évaluation et de conseil en matière de développement durable et de performance énergétique des bâtiments.</string>
+
+    <string name="body_news5">Cette opération mixte se caractérise par une programmation qui répond aux attentes de la ville de Paris et de la mairie du 19e : une résidence de 55 logements en accession, une résidence pour étudiants de 95 chambres livrée à la RIVP avec pour gestionnaire Lerichemont, une  crèche de 38 berceaux livrée à People And Baby, acteur national de l’accueil de la petite enfance et un  commerce en pied d’immeubles pour Héraclès Investissement.
+\n\nLes logements en accession sont labellisés BBC® Effinergie et sont certifiés NF - Démarche logement. La résidence pour étudiants est certifiée Habitat et Environnement (profil A). Elle  est  également labellisée  BBC® Effinergie.
+\n\nL’Agence d’Architecture Brossy et Associés a su trouver le meilleur parti architectural inscrivant le bâtiment dans une écriture contemporaine. Les parties communes ont été décorées par Hubert de Malherbe et le jardin paysager est signé Alice Tricon.
+Les travaux ont été réalisés par Habitat résidentiel.
+\n\nL’inauguration a eu lieu le 4 novembre en présence de François Dagnaud, Maire du 19e, Ian Brossat, Adjoint à la Maire de Paris chargé du logement et de l’hébergement d’urgence,  Marie-Christine Lemardeley, Adjointe à la Maire de Paris chargée des universités, de la vie étudiante et de la recherche, Emmanuelle Cosse, Vice-présidente du Conseil régional chargée du logement, de l’habitat, du renouvellement urbain et de l’action foncière, Frédérique Calandra, présidente de la RIVP,  Serge Contat directeur général de la RIVP, Loic Madeline, Directeur Général Adjoint de Sodéarif et François Chaussade Directeur Général Adjoint de Cogedim</string>
+
+</resources>
